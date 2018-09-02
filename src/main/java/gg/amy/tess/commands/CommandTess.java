@@ -34,6 +34,12 @@ public class CommandTess extends Command {
             "Tatos for everyone",
             "All pat equal",
             "(in response to \"are waifus real?\") If they were, they still wouldn't love American otakus ｗｗｗ",
+            "可愛すぎる!!!!",
+            "%roleme no nsfw",
+            "I like hugs ^^",
+            "大きすぎました。。",
+            "ロリコンｗｗｗ",
+            "cow tits?",
     };
     
     private final Random random = new Random();
